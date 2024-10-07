@@ -1,0 +1,68 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to My Personal Website</h1>
+</header>
+
+<section>
+    <h2>My YouTube Channel</h2>
+    <p><a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID" target="_blank">Visit my YouTube Channel</a></p>
+</section>
+
+<section>
+    <h2>My Discord ID</h2>
+    <p>Discord ID: <strong>YOUR_DISCORD_ID</strong></p>
+</section>
+
+<section>
+    <h2>My Most Popular Video</h2>
+    <p><a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">Watch my most popular video!</a></p>
+</section>
+
+<section>
+    <h2>My Friends' Channels</h2>
+    <ul>
+        <li><a href="https://www.youtube.com/channel/FRIEND_1_CHANNEL_ID" target="_blank">Friend 1</a></li>
+        <li><a href="https://www.youtube.com/channel/FRIEND_2_CHANNEL_ID" target="_blank">Friend 2</a></li>
+        <li><a href="https://www.youtube.com/channel/FRIEND_3_CHANNEL_ID" target="_blank">Friend 3</a></li>
+    </ul>
+</section>
+
+</body>
+</html>
